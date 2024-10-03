@@ -5,7 +5,6 @@
 #		Follow-up: followup_death.csv
 #		Generation Info: triplet.csv
 # ------------------------------------------------------------------- #
-rm(list = ls())
 setwd('~/Desktop/FILE')
 library(coxme) # load library
 library(survival)
