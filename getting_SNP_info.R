@@ -3,7 +3,6 @@
 # compare with previous studies
 #---------------------------------------------------------------- #
 
-rm(list = ls())
 setwd('hgb')
 
 counter = 1
